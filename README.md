@@ -1,3 +1,16 @@
+# Minesweeper with Vite, TypeScript, and Zustand
+
+A modern implementation of the classic Minesweeper game built with Vite, TypeScript, React, and Zustand for state management. This project features a clean, professional UI with a responsive grid, colorful number indicators, and accurate game logic.
+
+This project was created with the assistance of **Grok 3**, an AI developed by xAI, which helped guide the development process, debug issues, and enhance the styling.
+
+## Features
+- 10x10 grid with 10 mines (customizable in code).
+- Left-click to reveal cells, right-click to flag potential mines.
+- Recursive flood-fill for empty cells, correctly limited to adjacent cells.
+- Win/loss detection and game reset functionality.
+- Polished UI with 3D-style hidden cells, color-coded numbers, and a modern reset button.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
